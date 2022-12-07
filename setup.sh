@@ -3,5 +3,3 @@
 brew tap majd/repo
 brew install ipatool
 pip3 install transfersh-cli
-ipatool auth login
-288189
