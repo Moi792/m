@@ -3,4 +3,4 @@
 brew tap majd/repo
 brew install ipatool
 pip3 install transfersh-cli
-ipatool auth login --auth-code 485467
+ipatool auth login --auth-code 670822
